@@ -1,0 +1,20 @@
+/* colors */
+
+/*
+60% of #2CCDD3 - Primary
+30% of #D32CCD - Secondary
+10% of #CDD32C - Accent
+
+*/
+
+:root {
+
+    /* var(--primaryColor)  !important; */
+    --primarycolor: #2CCDD3;
+
+     /* var(--secondaryColor)  !important; */
+     --secondarycolor: #D32CCD;
+
+      /* var(--accentColor)  !important; */
+    --accentcolor: #CDD32C;
+}
